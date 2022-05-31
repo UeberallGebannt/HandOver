@@ -1,4 +1,4 @@
-package net.kettlemc.plugin;
+package net.kettlemc.handover;
 
 import javax.swing.JOptionPane;
 
